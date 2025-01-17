@@ -43,7 +43,7 @@ This whitepaper introduces a universal QR code format for EV chargers to ensure:
 ---
 
 ### **How to Use This Repository**
-1. **Download the Whitepaper**: The whitepaper is available as a [PDF](whitepaper.pdf) file.
+1. **Download the Whitepaper**: The whitepaper is available as a [PDF](docs/White Paper - OCPQR - Open Charge Point QR Code.pdf) file.
 2. **Contribute**: Share feedback or propose improvements via [Issues](https://github.com/<username>/<repository-name>/issues).
 
 ---
