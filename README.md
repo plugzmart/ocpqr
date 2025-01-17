@@ -43,8 +43,9 @@ This whitepaper introduces a universal QR code format for EV chargers to ensure:
 ---
 
 ### **How to Use This Repository**
-1. **Download the Whitepaper**: The whitepaper is available as a [PDF](https://github.com/plugzmart/ocpqr/blob/main/docs/White%20Paper%20-%20OCPQR%20-%20Open%20Charge%20Point%20QR%20Code.pdf) file.
-2. **Contribute**: Share feedback or propose improvements via [Issues](https://github.com/plugzmart/ocpqr/issues).
+1. **Whitepaper Directory**: The whitepaper is available as a [PDF](https://github.com/plugzmart/ocpqr/blob/main/docs/White%20Paper%20-%20OCPQR%20-%20Open%20Charge%20Point%20QR%20Code.pdf) file.
+2. **Download the Whitepaper**: The whitepaper is available as a [PDF](https://github.com/plugzmart/ocpqr/blob/main/docs/White%20Paper%20-%20OCPQR%20-%20Open%20Charge%20Point%20QR%20Code.pdf?raw=true) file.
+3. **Contribute**: Share feedback or propose improvements via [Issues](https://github.com/plugzmart/ocpqr/issues).
 
 ---
 
